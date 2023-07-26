@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Eu sou o Pablo Neri.
 
-<!--
-**PabloNeri66/PabloNeri66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Desenvolvo projetos com python/back-end.
+- 🌱 Estou me graduando em ADS.
+- 💬 À procura de um estágio.
+- 💻 Freelancer.
+--> linkedin: pabloneri66
+  <div> 
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  </div>
+          
+           
+          
+          
