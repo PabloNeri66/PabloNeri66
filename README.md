@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pablo Neri.
+## Olá!
 
 - 🔭 Desenvolvo projetos com python/back-end.
 - 🌱 Estou me graduando em ADS.
