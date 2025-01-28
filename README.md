@@ -5,7 +5,7 @@
 - 💬 À procura de um estágio.
 
 
- - 🌐 linkedin: pabloneri66  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height = "20"/>
+ - 🌐 Linkedin: <a href=https://www.linkedin.com/in/pabloneri-link/> Pabloneri <a/> 
 
          
  <div style="display: flex; align-items: center; justify-content: center;">
