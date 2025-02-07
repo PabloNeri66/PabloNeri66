@@ -21,5 +21,3 @@
 </div>
 
 ---
-
-⭐ **Se gostou do meu perfil, não esqueça de deixar uma estrela no repositório!** ⭐
