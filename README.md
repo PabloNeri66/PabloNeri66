@@ -1,19 +1,25 @@
-## Olá!
+## 👋 Olá, bem-vindo ao meu perfil!
 
-- 🔭 Desenvolvo projetos com python/back-end.
-- 🌱 Estou me graduando em ADS.
-- 💬 À procura de um estágio.
+### Sobre mim:
+- 🔭 Desenvolvo projetos com **Python** focado no **Back-end**  
+- 🎓 Estou me graduando em **Análise e Desenvolvimento de Sistemas (ADS)**  
+- 🚀 Buscando oportunidades para um **estágio** na área de tecnologia  
 
+---
 
- - 🌐 Linkedin: <a href=https://www.linkedin.com/in/pabloneri-link/> Pabloneri <a/> 
+### 📫 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabloneri-link/)
 
-         
- <div style="display: flex; align-items: center; justify-content: center;">
-  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img alt="Django" width="40" src="https://img.shields.io/badge/-Django-092D1F?style=flat&logo=django&logoColor=fff" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="30" />
-          
-          
+---
+
+### 🚀 Tecnologias e Ferramentas:
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img alt="Django" height="40" width="50" src="https://img.shields.io/badge/-Django-092D1F?style=flat&logo=django&logoColor=fff" />
+  <img alt="FastAPI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
 </div>
-          
+
+---
+
+⭐ **Se gostou do meu perfil, não esqueça de deixar uma estrela no repositório!** ⭐
