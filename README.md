@@ -21,3 +21,5 @@
 </div>
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloNeri66&layout=compact&theme=dark)
+
