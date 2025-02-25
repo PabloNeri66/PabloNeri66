@@ -21,5 +21,7 @@
 </div>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloNeri66&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloNeri66&layout=compact&theme=dark&langs_count=8" width="500px"/>
+</p>
 
