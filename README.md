@@ -1,6 +1,6 @@
 👋 Hey, Welcome to my Profile!
 
-- 🎓 I'm pursuing a degree in Systems Analysis and Development (ADS).
+- 🎓 I'm pursuing a degree in Systems Analysis and Development
 - 🚀 Looking for internship opportunities in the tech field.
   
 ---
