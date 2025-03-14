@@ -1,13 +1,13 @@
-## 👋 Olá, bem-vindo ao meu perfil!
+## 👋Hey, Welcome to my Profile
 
-### Sobre mim:
+### About me:
 - 🔭 Desenvolvo projetos com **Python** focado no **Back-end**  
 - 🎓 Estou me graduando em **Análise e Desenvolvimento de Sistemas (ADS)**  
 - 🚀 Buscando oportunidades para um **estágio** na área de tecnologia  
 
 ---
 
-### 📫 Conecte-se comigo:
+### 📫 Linking...
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabloneri-link/)
 
 ---
