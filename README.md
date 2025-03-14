@@ -1,10 +1,8 @@
-## 👋Hey, Welcome to my Profile
+👋 Hey, Welcome to my Profile!
 
-### About me:
-- 🔭 Desenvolvo projetos com **Python** focado no **Back-end**  
-- 🎓 Estou me graduando em **Análise e Desenvolvimento de Sistemas (ADS)**  
-- 🚀 Buscando oportunidades para um **estágio** na área de tecnologia  
-
+- 🎓 I'm pursuing a degree in Systems Analysis and Development (ADS).
+- 🚀 Looking for internship opportunities in the tech field.
+  
 ---
 
 ### 📫 Linking...
@@ -12,7 +10,7 @@
 
 ---
 
-### 🚀 Tecnologias e Ferramentas:
+### 🚀 Tecnologies and Tools:
 <div style="display: flex; align-items: center; justify-content: center;">
   <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
