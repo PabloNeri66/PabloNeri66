@@ -2,7 +2,7 @@
 
 - 🎓 I'm pursuing a degree in Systems Analysis and Development.
 - 🚀 Looking for internship opportunities in the tech field.
-- 📌 I want to become a Full Stack Developer. 
+- 📌 I want to become a Backend Developer. 
 ---
 
 ### 📫 Linking...
