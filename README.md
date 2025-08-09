@@ -1,7 +1,6 @@
 👋 Hey, Welcome to my Profile!
 
-- 🎓 I'm pursuing a degree in Systems Analysis and Development.
-- 📌 I am Working as Backend Developer. 
+- 🎓 I'm pursuing a degree in Systems Analysis and Development. 
 ---
 
 ### 📫 Linking...
