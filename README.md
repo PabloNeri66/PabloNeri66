@@ -22,7 +22,8 @@
 </div>
 
 ---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloNeri66&layout=compact&theme=dark&langs_count=8&cache_seconds=1" width="280px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloNeri66&layout=compact&theme=dracula&langs_count=6" width="350px"/>
 </p>
 
