@@ -1,7 +1,7 @@
 ```json
 {
-  "**Greetings**": "Olá! Prazer, bem-vindo ao meu perfil.",
-  "**Status**": "🎓 I'm pursuing a degree in Systems Analysis and Development."
+  "Greetings": "Hi! Pleasure to meet you, Welcome to my profile.",
+  "Status": "🎓 I'm pursuing a degree in Systems Analysis and Development."
 }
 ```
 ---
