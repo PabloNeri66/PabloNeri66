@@ -1,5 +1,6 @@
-👋 Hey, Welcome to my Profile!
-
+{
+"Greetings": "Olá! Prazer, bem-vindo ao meu perfil." 
+}
 - 🎓 I'm pursuing a degree in Systems Analysis and Development. 
 ---
 
