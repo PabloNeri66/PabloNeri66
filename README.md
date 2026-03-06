@@ -26,6 +26,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloNeri66&layout=compact&theme=dracula&langs_count=6" width="350px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PabloNeri66&layout=compact"/>
 </p>
 
